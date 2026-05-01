@@ -72,7 +72,7 @@ These highlight that **technical issues, cheating, and monetisation frustrations
 ```
 gaming-review-analysis/
 
-├── data/              # Raw dataset  
+├── data/              # Raw dataset (not included due to file size) 
 ├── notebooks/         # NLP pipeline and analysis  
 ├── outputs/           # Visualisations
 └── README.md  
