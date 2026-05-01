@@ -24,7 +24,9 @@ The project applies a full NLP pipeline to raw review text:
 - Tokenisation and stopword removal (including domain-specific stopwords)  
 - Lemmatization using WordNet  
 - Filtering of low-quality / short reviews  
-- N-gram analysis (bigrams) to capture common phrases    
+- N-gram analysis (bigrams) to capture common phrases
+
+(Data sourced from [here](https://www.kaggle.com/datasets/luthfim/steam-reviews-dataset), not included due to file size limitations)
 
 ## Analysis & Visualisation
 
