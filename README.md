@@ -89,7 +89,7 @@ This project demonstrates:
 - Understanding of **player sentiment drivers in multiplayer games**  
 - Translating qualitative feedback into **actionable product insights**  
 
-## Ways to Improve
+## Ways to Improve
 
 - Topic modelling to identify deeper themes in reviews  
 - Linking sentiment to player behaviour and retention  
